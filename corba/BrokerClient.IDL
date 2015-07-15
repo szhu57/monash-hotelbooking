@@ -1,0 +1,8 @@
+module corba{
+interface BrokerClient{
+     arrayList<string> listRoom(in string city,in string hotel) ; 
+	 int bookRoom(in string city,in string hotel,in string type,in string in, in string out) ;
+	 string insertInfo(in string   id, in string name, in string cno, in string email,in string hotel);
+}
+
+}
