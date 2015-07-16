@@ -1,6 +1,6 @@
 # hotel-booking using corba and rmi
 
-This project is an assignment of the course of distributed sysem programming. The main feature of this project compared with the project [monash-hotelbooking-socket](https://github.com/szhu57/monash-hotelbooking-socket.git) is using the tehnology to build the hotel booking distributed system. 
+This project is an assignment of the course of distributed sysem programming. The main feature of this project compared with the project [monash-hotelbooking-socket](https://github.com/szhu57/monash-hotelbooking-socket.git) is using the tehnology of corba and rmi to build the hotel booking distributed system. 
 
 
 ## System architecture
